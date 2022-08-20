@@ -1,0 +1,826 @@
+[07-Feb-2022 14:59:10 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 14:59:10 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 14:59:31 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 14:59:31 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 14:59:40 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 14:59:40 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:04:25 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:04:25 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:05:52 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:05:52 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:05:57 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:05:57 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:06:43 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:06:43 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:08:03 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:08:03 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:08:44 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:08:44 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:08:47 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:08:47 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:09:30 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:09:30 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:10:11 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:10:11 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:10:24 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:10:24 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:10:42 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:10:42 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:11:12 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:11:12 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:11:15 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:11:15 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:11:23 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:11:23 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:15:27 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:15:27 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:16:12 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:16:12 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:16:15 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:16:15 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:16:18 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:16:18 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:16:59 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:16:59 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:18:26 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:18:26 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:18:34 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:18:34 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:19:19 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:19:19 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:19:26 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:19:26 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:20:13 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:20:13 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:20:15 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:20:15 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:25:07 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:25:07 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:25:19 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:25:19 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:48:56 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:48:56 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:49:03 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:49:03 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:49:04 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:49:04 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:49:30 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:49:30 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:51:15 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:51:15 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:51:33 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:51:33 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:51:37 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:51:37 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:51:58 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:51:58 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:52:16 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:52:16 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:52:48 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:52:48 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:53:52 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:53:52 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:54:13 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:54:13 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:54:16 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:54:16 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:54:26 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:54:26 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:55:33 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:55:33 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:55:36 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 15:55:36 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 16:04:26 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 16:04:26 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 16:13:22 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 16:13:22 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 16:14:27 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 16:14:27 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 16:14:45 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 16:14:45 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 16:14:50 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 16:14:50 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 16:21:00 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 16:21:00 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 16:32:52 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 16:32:52 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 16:32:59 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 16:32:59 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 16:33:45 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 16:33:45 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 16:33:51 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[07-Feb-2022 16:33:51 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[08-Feb-2022 18:33:47 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[08-Feb-2022 18:33:47 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[08-Feb-2022 18:37:46 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[08-Feb-2022 18:37:46 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[08-Feb-2022 18:39:25 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
+[08-Feb-2022 18:39:25 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php on line 182 and defined in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php:43
+Stack trace:
+#0 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home2/letssync/public_html/api/bosch/vendor/illuminate/log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home2/letssync/public_html/api/bosch/vendor/laravel/lumen-framework/src/Exceptions/Handler.php(58): I in /home2/letssync/public_html/api/bosch/vendor/illuminate/log/Logger.php on line 43
